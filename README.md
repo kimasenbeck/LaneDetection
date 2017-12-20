@@ -3,10 +3,7 @@
 
 This is the first project in the Udacity Self-Driving Car NanoDegree. In this project, the goal is to develop a lane detection algorithm. I've accomplished this by making use of the Python OpenCV library. In particular, I've made use of the Canny Edge Detection and Hough Line Transform algorithms. As output in this project, I annotated several images, indicating where the lanes lie within the photos. Similarly, I've done the same for video input, which gets processed as a series of videos. 
 
-
-[//]: # (Image References)
-
-[image1]: ./examples/grayscale.jpg "Grayscale"
+![image1](test_images_output/SolidWhiteRight.jpg "Result")
 
 ---
 
