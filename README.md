@@ -5,6 +5,8 @@ This is the first project in the Udacity Self-Driving Car Nanodegree. In this pr
 
 ---
 
+[![OutputVideo](https://www.youtube.com/watch?v=FuU50VCFoJg&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=FuU50VCFoJg&feature=youtu.be)
+
 ### Reflection
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
